@@ -37,7 +37,7 @@
 1. Exercise 7 Copy
 
 		// Implement function copy that takes an array of numbers or array and returns a copy of that array
- 
+ 		// Example: copy([ 1, 2, [3, [4] ] ] ) returns [1,2,[3,[4]]]
 
  
 1. Exercise 8 Count the Nested levels
